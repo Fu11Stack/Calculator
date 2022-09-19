@@ -4,7 +4,7 @@ A passionate Web developer. I enjoy to build beautiful websites with latest tech
 
 📫 How to reach me Jus10Lopez@yahoo.com
 
-React Calculator App
+React Calculator App Programmed in react
 
 ▶ Languages and Tools:
 <h3 align="left">▶ Languages and Tools:</h3>
