@@ -4,7 +4,7 @@ Hi 👋, I'm Fu11Stack A passionate Web developer. Love to build beautiful websi
 
 📫 How to reach me Jus10Lopez@yahoo.com
 
-Check out the live site: Link
+Check out the live site:
 
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 
